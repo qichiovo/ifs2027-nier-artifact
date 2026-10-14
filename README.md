@@ -1,16 +1,17 @@
 # Local Accuracy Is Not a Contract for Abstract Transformers: artifact
 
 Wenrui Liang, Huijie Xu, Zhibo Jin, Zhiyu Zhu, Hongyang Chen, Biaoliang Chen, Jianlong Zhou
+(University of Technology Sydney)
 
 This repository holds the paper and its reproducibility package. Release
-[v1.1](https://github.com/qichiovo/ifs2027-nier-artifact/releases/tag/v1.1), the address given in
-the paper's data availability statement, carries the same two files. Release v1.0 holds the
-previous version.
+[v1.2](https://github.com/qichiovo/ifs2027-nier-artifact/releases/tag/v1.2), the address given in
+the paper's data availability statement, carries the same two files. Releases v1.0 and v1.1 hold
+earlier versions.
 
 | File | Bytes | SHA-256 |
 |---|---|---|
-| `ifs2027-nier-paper-v1.1.pdf` | 534,379 | `186d4de9fcd8429ebc99d02c0c42ecf15e4ed3024f57bf8e814effc7e936064e` |
-| `ifs2027-nier-artifact-v1.1.zip` | 18,903,425 | `3da6ee95f3c34bfa35591813cbde4f26c4cccfe7ba40e6e0ae98adf93fd6502e` |
+| `ifs2027-nier-paper-v1.2.pdf` | 534,424 | `6a231618b115a374c27616d10d68b6893d302494bf75a4fab43ff50c32148585` |
+| `ifs2027-nier-artifact-v1.2.zip` | 18,903,397 | `81428b0035ec5a9562e39b18990d57037f27c4847b3541b547a6d44202e9f2b9` |
 
 ## What the package contains
 
