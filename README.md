@@ -3,13 +3,14 @@
 Wenrui Liang, Huijie Xu, Zhibo Jin, Zhiyu Zhu, Hongyang Chen, Biaoliang Chen, Jianlong Zhou
 
 This repository holds the paper and its reproducibility package. Release
-[v1.0](https://github.com/qichiovo/ifs2027-nier-artifact/releases/tag/v1.0), the address given in
-the paper's data availability statement, carries the same two files.
+[v1.1](https://github.com/qichiovo/ifs2027-nier-artifact/releases/tag/v1.1), the address given in
+the paper's data availability statement, carries the same two files. Release v1.0 holds the
+previous version.
 
 | File | Bytes | SHA-256 |
 |---|---|---|
-| `ifs2027-nier-paper-v1.0.pdf` | 534,489 | `3f2321e3fe154fb420fc75d2a3d157361144b4485bdbdb2d5815f555f8a4940c` |
-| `ifs2027-nier-artifact-v1.0.zip` | 18,903,385 | `84fea0562560cc2373bb28a1be7eef6dce01a12f49b7ee8b2e3be65ac5721f86` |
+| `ifs2027-nier-paper-v1.1.pdf` | 534,379 | `186d4de9fcd8429ebc99d02c0c42ecf15e4ed3024f57bf8e814effc7e936064e` |
+| `ifs2027-nier-artifact-v1.1.zip` | 18,903,425 | `3da6ee95f3c34bfa35591813cbde4f26c4cccfe7ba40e6e0ae98adf93fd6502e` |
 
 ## What the package contains
 
